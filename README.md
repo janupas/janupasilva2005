@@ -43,8 +43,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janupasilva2005&count_private=true&theme=radical)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janupasilva2005&layout=compact)](https://github.com/janupasilva2005/github-readme-stats)
-
 [![@janupa's Holopin board](https://holopin.me/janupa)](https://holopin.io/@janupa)
